@@ -3,30 +3,30 @@
 백엔드 개발자로서 안정적이고 효율적인 서버, 데이터베이스, API 등을 설계하고 구현하는 것을 즐깁니다.
 
 ## 🔧 기술 스택
+<!--내용 부분-->
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+</div>
 
-### 언어
-- **Java**
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Python**
+<div align="center">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
 
-### 프레임워크 & 라이브러리
-- **Spring Boot**
-- **Gin**
+<br>
 
-### 데이터베이스
-- **MySQL**
-- **PostgreSQL**
-- **MongoDB**
-- **Redis**
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+</div>
 
-### 도구 & 기타
-- **Docker**
-- **Kubernetes**
-- **AWS**
-- **Git**
-- **CI/CD (Jenkins, GitHub Actions)**
+<br>
 
 ## 📈 현재 프로젝트
 
@@ -42,20 +42,20 @@
 
 ## 📝 블로그 & 글
 
-- [블로그 포스트 제목](블로그 링크) - [간단한 설명]
-- [블로그 포스트 제목](블로그 링크) - [간단한 설명]
+- [[백엔드] @Scheduled(Cron)를 프로젝트에 응용하기](https://mike705114.tistory.com/22)
+- [[아이나비 인턴] 1주차](https://mike705114.tistory.com/1)
 
 ## 📫 연락하기
 
-- **이메일:** mike705114@gmail.com
-- **블로그:** [yourblog.com](https://yourblog.com)
-
-## 📊 GitHub 통계
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mike7051141&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mike7051141&layout=compact&theme=dracula)
-
----
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://mike705114.tistory.com/" style="text-decoration:none !important" >
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:mike705114@gmail.com" style="text-decoration:none !important">
+    <img
+      src="https://img.shields.io/badge/mike705114@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
 
 ⭐️ From [mike7051141](https://github.com/mike7051141)
