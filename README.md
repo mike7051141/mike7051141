@@ -33,14 +33,14 @@
 
 ## 📈 현재 프로젝트
 
-### [프로젝트 이름](프로젝트 링크)
+### [Public-Place](프로젝트 링크)
 - **설명:** 이 프로젝트는 [프로젝트에 대한 간단한 설명].
 - **기술 스택:** Node.js, Express, MongoDB, Docker
 - **주요 기능:** 사용자 인증, RESTful API, 실시간 데이터 처리
 
 ### [프로젝트 이름](프로젝트 링크)
 - **설명:** 이 프로젝트는 [프로젝트에 대한 간단한 설명].
-- **기술 스택:** Python, Django, PostgreSQL, AWS
+- **기술 스택:** Spring, Java, Docker, AWS, Git-Action, Gradle
 - **주요 기능:** 웹 애플리케이션, 관리자 대시보드, 배치 작업
 
 ## 📝 블로그 & 글
