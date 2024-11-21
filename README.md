@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/MariadDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
